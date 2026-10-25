@@ -21,7 +21,6 @@
   - **Denoising Microscopic Data With Deep Learning**
   - **Multiclass Image Classification of Christmas dataset with Convolution Neural Network**
   - **Steering Angle Correction Using Deep Learning for Autonomous Driving**
-  - **Object Detection of Traffic Signs Using YOLOv7 Algorithm**
 
   ### Robotics:
   - **Real-Time Multi-Arm Robot Teleoperation using ROS 2**
