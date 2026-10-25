@@ -2,8 +2,15 @@
 <h3 align="left">👀 I’m interested in Data Science, Artificial Intelligence, Machine Learning and Deep Learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently pursuing Master's in Mechatronics.
+- 🌱  M.Sc. Mechatronics graduate from the University of Siegen, Germany.
+- 💻 AI & Machine Learning Engineer with hands-on experience in developing AI-powered applications, deep learning models, and scalable ML pipelines.
+- 🚀 Passionate about building practical AI solutions using LLMs, RAG, Agentic AI, Computer Vision, and MLOps.
 - 🔭 The projects that I have worked on are:
+
+💼 Professional Experience
+- AI Engineer | IWT Wirtschaft und Technik GmbH: Developed production-oriented multi-agent AI systems using LangGraph, LangChain, FastAPI, and RAG, improving retrieval precision by 22%.
+- Machine Learning Engineer | IAV GmbH: Developed Transformer and LSTM models for vehicle trajectory prediction using Kubeflow, Kubernetes, and cloud-based ML pipelines.
+- Research Assistant | University of Siegen: Developed YOLOv7-based object detection models and evaluated their robustness under different environmental conditions.
 
   ### Deep Learning:
   - **Denoising Microscopic Data With Deep Learning**
