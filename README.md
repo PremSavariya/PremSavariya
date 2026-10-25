@@ -5,23 +5,27 @@
 - 🌱  M.Sc. Mechatronics graduate from the University of Siegen, Germany.
 - 💻 AI & Machine Learning Engineer with hands-on experience in developing AI-powered applications, deep learning models, and scalable ML pipelines.
 - 🚀 Passionate about building practical AI solutions using LLMs, RAG, Agentic AI, Computer Vision, and MLOps.
-- 🔭 The projects that I have worked on are:
 
 💼 Professional Experience
 - AI Engineer | IWT Wirtschaft und Technik GmbH: Developed production-oriented multi-agent AI systems using LangGraph, LangChain, FastAPI, and RAG, improving retrieval precision by 22%.
 - Machine Learning Engineer | IAV GmbH: Developed Transformer and LSTM models for vehicle trajectory prediction using Kubeflow, Kubernetes, and cloud-based ML pipelines.
 - Research Assistant | University of Siegen: Developed YOLOv7-based object detection models and evaluated their robustness under different environmental conditions.
 
-  ### Deep Learning:
+- 🔭 The projects that I have worked on are:
+
+### Generative AI & Agentic AI
+- **Multilingual Agentic RAG Chatbot for Clinical Guidelines**
+- **Fine-Tuned LLM for Abstractive Text Summarization**
+
+  ### Machine Learning & Deep Learning:
   - **Denoising Microscopic Data With Deep Learning**
-  - **Multiclass Image Classification of Christmas dataset with Convolution Neural Network** 
-
-  ### Autonomous Driving:
+  - **Multiclass Image Classification of Christmas dataset with Convolution Neural Network**
   - **Steering Angle Correction Using Deep Learning for Autonomous Driving**
-  - **Lane Detection**
-  - **Traffic Signs Recognition with Convolution Neural Network**
-  - **Object Detection of Traffic Signs Using YOLOv7 Algorithm**				      
+  - **Object Detection of Traffic Signs Using YOLOv7 Algorithm**
 
+  ### Robotics:
+  - **Real-Time Multi-Arm Robot Teleoperation using ROS 2**
+  - **SLAM-Based Mobile Robot Navigation with NVIDIA Isaac Sim**			      
 
 - 📫 How to reach me **premsavariya14@gmail.com**
 
