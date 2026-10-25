@@ -13,9 +13,9 @@
 
 - 🔭 The projects that I have worked on are:
 
-### Generative AI & Agentic AI
-- **Multilingual Agentic RAG Chatbot for Clinical Guidelines**
-- **Fine-Tuned LLM for Abstractive Text Summarization**
+  ### Generative AI & Agentic AI
+  - **Multilingual Agentic RAG Chatbot for Clinical Guidelines**
+  - **Fine-Tuned LLM for Abstractive Text Summarization**
 
   ### Machine Learning & Deep Learning:
   - **Denoising Microscopic Data With Deep Learning**
